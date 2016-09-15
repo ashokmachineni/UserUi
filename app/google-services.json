@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "148658326138",
+    "firebase_url": "https://tvapplean.firebaseio.com",
+    "project_id": "tvapplean",
+    "storage_bucket": "tvapplean.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148658326138:android:f5b388434059e6f0",
+        "android_client_info": {
+          "package_name": "com.ashok.userui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148658326138-epakuf00vksu4f6vs4frogd18j1a7k57.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKzLcV2wzZVSdHODzpl1Xe4YXALD7HZfU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
